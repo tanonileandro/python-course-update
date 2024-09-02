@@ -9,4 +9,3 @@ def greet():
 
 # Llamamos la funcion, en python las mismas con objetos
 greet()
-
