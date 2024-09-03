@@ -25,7 +25,8 @@ if __name__ == '__main__':
 
    print('*** Funciones en Python ***')
    # Llamamos la funcion, en python las mismas con objetos
-   greet()
+  
+   # greet()
 
    person = new_person('Leandro', 'Tanoni', 28)
    person2 = new_person(name='Leandro', surname='Tanoni', age=28)
